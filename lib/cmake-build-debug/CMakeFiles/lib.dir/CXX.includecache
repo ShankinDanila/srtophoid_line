@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danila/1.2lab/lib/Errors.h
+
+/home/danila/1.2lab/lib/Strophoid.cpp
+Strophoid.h
+/home/danila/1.2lab/lib/Strophoid.h
+Errors.h
+/home/danila/1.2lab/lib/Errors.h
+cmath
+-
+
+/home/danila/1.2lab/lib/Strophoid.h
+
